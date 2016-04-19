@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Talk"
+  id="myeclipse.1447210197730"
+  context-root="/Talk"
+  j2ee-spec="5.0"
+  archive="Talk.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,84 @@
+html,body,div,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,p,blockquote,pre,form,input,textarea,fieldset,table,th,td{margin:0;padding:0}
+body {
+    //background: #2f2f2f;
+    background: white;
+}
+.content {
+    display: none;
+    padding: 0px;
+    color: white;
+    font-size: 15px;
+    font-family: "Times New Roman",Georgia,Serif;
+}
+.top {
+    height: 40px;
+    //background: red;
+}
+.quitBt {
+    margin-top: 20px;
+    margin-left: 20px
+}
+.middle-left {
+    float: left;
+    width: 40%;
+    height: 1000px;
+    //background: green;
+}
+.middle-right-top {
+    float: left;
+    width: 60%;
+    height: 450px;
+    margin-bottom: 10px;
+    //background: blue;
+}
+.main-windows {
+    width: 480px;
+    height: 360px;
+    //background: blue;
+}
+
+.middle-right-middle {
+    float: left;
+    width: 60%;
+    height: 280px;
+    margin-bottom: 10px;
+    //background: rosybrown;
+}
+.other-windows1 {
+    width: 240px;
+    height: 180px;
+    //background: red;
+}
+.other-windows2 {
+    width: 240px;
+    height: 180px;
+    //background: blue;
+}
+.other-windows3 {
+    width: 240px;
+    height: 180px;
+    //background: green;
+}
+.middle-right-bottom {
+    float: left;
+    width: 60%;
+    height: 100px;
+    //background: red;
+}
+#demo_type_desc {
+    //display: none;
+    color: red;
+}
+#myself_type_desc {
+    display: none;
+    color: red;
+}
+#qcloudLink {
+    color:blue;
+}
+#sdkAppIdDiv {
+    display: none;
+}
+#accountTypeDiv {
+    display: none;
+}

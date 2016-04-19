@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+.out{
+	position: relative;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	top: 10px;
+	
+}
+.touxiang{
+	position: relative;
+	width:50%;
+	left: 20px;
+}
+.main{
+	height: 500px;
+}
+.left{
+	height: 100%;
+	float: left;
+	width: 30%;
+}
+.right{
+	visibility:visible;
+	height: 100%;
+	width: 68%;
+	float: right;
+}
